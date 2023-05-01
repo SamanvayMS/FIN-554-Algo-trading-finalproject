@@ -1,2 +1,4 @@
 # FIN-554-Algo-trading-finalproject
-code for the hypothesis tests for indicators signals and rules using the VWAP, Moving averages.
+Algorithmic trading Systems designa final project.
+
+Contains the notebook where I tested various hypothesis for indicators,signals and rules involving the rolling VWAP and Moving averages.
